@@ -1,0 +1,44 @@
+body {
+    background-color: #FFFFFF;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.margin-for-page{
+    margin:20px;
+}
+
+.footer-background{
+    background-color: #D3D3D3;
+}
+
+/* For the page Add Product */
+
+.form-width-mine{
+    width:500px;
+}
+
+.margin-top-bottom{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.not-here{
+    display:none;
+}
+
+
+/* For the page Product List */
+
+.card-box-order-mine{
+    width: 300px;
+    border: 3px solid #2E8B57;
+    margin: 10px;
+}
+
+.card-box-order-mine p{
+    text-align: center;
+    margin-bottom: 0px;
+}
